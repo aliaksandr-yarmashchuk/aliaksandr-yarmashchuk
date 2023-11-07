@@ -8,7 +8,7 @@
   <div align="center">
 </div>
   <div align="center">
-  <img src="https://i.pcmag.com/imagery/roundups/02HDufdqeRUDu3tl0NnY2qZ-2.fit_lim.size_760x427.v1649351854.jpg">
+  <img src="https://pontistechnology.com/wp-content/uploads/2023/03/shutterstock_1837443379-1-2048x1365.jpg">
 </div>
 
 #### :hammer_and_wrench: Languages and Tools :
