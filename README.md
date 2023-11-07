@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! 👋
+
 
 #### :hammer_and_wrench: Languages and Tools :
  <div>
@@ -26,3 +27,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" height="50" />&nbsp; &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="50" height="50"/>&nbsp;
    
+<a href="https://www.linkedin.com/in/leonid-kravchenko/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
