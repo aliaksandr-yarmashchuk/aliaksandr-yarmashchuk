@@ -7,10 +7,8 @@
 ### My name is Aliaksandr Yarmashchuk, I'm QA Manual and Automation Engineer from Poznan, Poland
 
 ### My LinkedIn profile:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/aliaksandr-yarmashchuk\">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+[![Linkedin Badge](https://img.shields.io/badge/-yarm.sasha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliaksandr-yarmashchuk/)
+
 
   <div align="center">
 </div>
