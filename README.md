@@ -43,4 +43,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" height="50" />&nbsp; &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="50" height="50"/>&nbsp;
-   
+
+
+   [![Linkedin Badge](https://img.shields.io/badge/-yarm.sasha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliaksandr-yarmashchuk/)
