@@ -3,7 +3,8 @@
   <div align="center">
   <img src="https://cdn.dribbble.com/users/1299339/screenshots/2972130/media/9c0c352c84f67a0f1eb6fd279c7a2b79.gif">
 </div>
-### My name is Aliaksandr Yarmashchuk, I'm QA Manual and Automation Engineer from Poznan, Poland
+
+## My name is Aliaksandr Yarmashchuk, I'm QA Manual and Automation Engineer from Poznan, Poland
 
 ## My LinkedIn profile:<div id="badges">
   <a href="https://www.linkedin.com/in/aliaksandr-yarmashchuk\">
