@@ -7,7 +7,7 @@
 ### My name is Aliaksandr Yarmashchuk, I'm QA Manual and Automation Engineer from Poznan, Poland
 
 ### My LinkedIn profile:
-[![Linkedin Badge](https://img.shields.io/badge/-yarm.sasha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliaksandr-yarmashchuk/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aliaksandr.Yarmashchuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliaksandr-yarmashchuk/)
 
 
   <div align="center">
