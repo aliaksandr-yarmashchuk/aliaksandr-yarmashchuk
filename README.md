@@ -1,7 +1,7 @@
 <div align="center">
 </div>
   <div align="center">
-  <img src="https://cdn.dribbble.com/users/1299339/screenshots/2972130/media/9c0c352c84f67a0f1eb6fd279c7a2b79.gif" width="45" height="45">
+  <img src="https://cdn.dribbble.com/users/1299339/screenshots/2972130/media/9c0c352c84f67a0f1eb6fd279c7a2b79.gif" width="100" height="100">
 </div>
 
 ### My name is Aliaksandr Yarmashchuk, I'm QA Manual and Automation Engineer from Poznan, Poland
