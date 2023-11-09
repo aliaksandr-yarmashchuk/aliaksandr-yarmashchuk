@@ -16,7 +16,7 @@
   <img src="https://pontistechnology.com/wp-content/uploads/2023/03/shutterstock_1837443379-1-2048x1365.jpg">
 </div>
 
-#### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
  <div>
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45"       height="45"/>&nbsp;
