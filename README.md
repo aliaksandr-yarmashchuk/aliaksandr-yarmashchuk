@@ -26,11 +26,17 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45"       height="45"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="Webstorm" alt="Webstorm" width="55"/>&nbsp; 
  <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://www.jetbrainsmerchandise.com/pycharm-sticker.html" title="PyCharm" alt="PyCharm" width="55"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="55"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50" />&nbsp; &nbsp;
 
-   
+
+
+
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp; 
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="Chrome" alt="Chrome" width="55" height="55"/>&nbsp;
 
@@ -41,11 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="55"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="55"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" alt="Atom" width="55"/>&nbsp;    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="55"/>&nbsp; 
 
 
-
-
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" height="50" />&nbsp; &nbsp;
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="50" height="50"/>&nbsp;
