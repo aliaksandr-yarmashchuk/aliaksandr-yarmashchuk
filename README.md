@@ -43,8 +43,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original.svg" title="Safari" alt="Safari" width="55" height="55"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" alt="Firefox" width="55"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" title="Opera" alt="Opera" width="55"/>&nbsp;
- 
-   
+<img src="https://avatars.githubusercontent.com/u/11354582?s=200&v=4" title="Edge" alt="Edge" width="55"/>&nbsp;
 
 
 
