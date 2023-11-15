@@ -18,7 +18,7 @@
 
 ## :hammer_and_wrench: Languages and Tools :
  <div>
-   &nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png?20200511151950" width="55" height="55" />&nbsp
    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="55"/>&nbsp;
