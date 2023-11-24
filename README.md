@@ -23,6 +23,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55"/>&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width="55"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="55"/>&nbsp;
+    <img src="https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/bstack-logo-global.svg" title="VSCode" alt="VSCode" width="55"/>&nbsp;
     <img src="https://cdn.freebiesupply.com/logos/large/2x/browserstack-logo-png-transparent.png" title="VSCode" alt="VSCode" width="55"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp
    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="Webstorm" alt="Webstorm" width="55"/>&nbsp; 
@@ -42,8 +43,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="55"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="55" height="55"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original.svg" title="Safari" alt="Safari" width="55" height="55"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" alt="Firefox" width="55"/>&nbsp; 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" title="Opera" alt="Opera" width="55"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" alt="Firefox" width="55"/>&nbsp;
    <img src="https://avatars.githubusercontent.com/u/11354582?s=200&v=4" title="Edge" alt="Edge" width="55"/>&nbsp;
 
 
